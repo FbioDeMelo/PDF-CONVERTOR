@@ -1,3 +1,2 @@
 Flask
 docx2pdf
-pywin32
